@@ -1,0 +1,16 @@
+.returns-calculator{
+    width: 50%;
+    margin: 75px auto;
+}
+
+.loader-spinner{
+    position: absolute;
+    margin: auto;
+    left: 50%;
+    top: 40%;
+    padding: 20px;
+    background-color: #222;
+    opacity: 0.8;
+    border-radius: 50px;
+    z-index: 3;
+}
